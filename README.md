@@ -7,8 +7,6 @@ Hands-on codes that we will use for our Lectures.
 * [Lecture 2](#lecture-2)
 * [Lecture 3](#lecture-3)
 * [Lecture 4](#lecture-4)
-* [Lecture 5](#lecture-5)
-* [Other Files](#other-files)
 * [References](#references)
 
 ## Lecture 2
@@ -43,18 +41,13 @@ Files in GitHub:
 3. Lab: Heart Failure Prediction (Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020). https://doi.org/10.1186/s12911-020-1023-5)
 3.1 Dataset: heart_failure_clinical_records_dataset.csv
 3.2 Codes: Lecture 4_Supervised - HF.ipynb
-
-## Lecture 5
-
-Files in GitHub:
-Chronic Kidney Disease Dataset: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
-1. Data: chronic_kidney_disease_full.csv 
-2. Codes: Lecture 5_Unsupervised Learning.ipynb
-
+4. Unsupervised Learning and Schedule Optimization [Optional]
+4.1 Codes: Lecture 5_Unsupervised Learning.ipynb. Dataset: Chronic Kidney Disease Dataset - chronic_kidney_disease_full.csv (https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease)
+4.2 Codes: Lecture 5_ScheduleOptimization.ipynb
 
 ## References:
 
-Lecture 2 and 5:
+Lecture 2 and 4:
 1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 2. https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/child-mortality-and-causes-of-death 
 
@@ -67,8 +60,3 @@ Lecture 3:
 
 Lecture 4:
 1. Heart Failure Prediction (Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020)
-
-Lecture 5:
-1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
-
-
